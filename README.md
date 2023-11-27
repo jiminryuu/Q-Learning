@@ -15,4 +15,5 @@ the number of episodes (iterations) that you want the q-algorithm to run
 
 ### Resources
 [Sutton and Barto, 2020] Sutton, R.S. and Barto, A.G., Reinforcement learning: An introduction, The MIT Press, Cambridge, MA., 2020.
+
 This implementation is based off of a pseudo-code algorithm in the above resource.
