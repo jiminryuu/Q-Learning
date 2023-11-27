@@ -3,6 +3,8 @@
 # 3190 Final Project
 # This python script implements q learning in a static environment and 
 # shows how it converges to an effective policy
+# [Sutton and Barto, 2020] Sutton, R.S. and Barto, A.G., Reinforcement learning: An introduction, The MIT Press, Cambridge, MA., 2020.
+# This implementation is based off of a pseudo-code algorithm in the above resource.
 
 import random
 
